@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Matthi
+- 👀 I’m interested in a hell lot of stuff
+- 🌱 I’m currently learning Java, Perl, Python and HTML/CSS

@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Matthi
-- 👀 I’m interested in a hell lot of stuff
-- 🌱 I’m currently learning Java, Perl, Python and HTML/CSS
+- Hi, I'm Matthi
+- Currently I'm just tinkering around with multiple projects here and mostly on GitLab (also called Feefkroete there)
